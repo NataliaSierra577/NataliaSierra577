@@ -8,7 +8,7 @@
 
 # ⚡ Hola, soy Natalia Sierra
 
-<img align="right" alt="Data Analyst" width="350" src="https://londoncg.com/hs-fs/hubfs/junio%202024/Inteligencia%20artificial%20en%20el%20an%C3%A1lisis%20de%20datos/inteligencia-artificial-en-la-analitica-de-datos.png?width=900&height=500&name=inteligencia-artificial-en-la-analitica-de-datos.png">
+<img align="center" alt="Data Analyst" width="600" src="https://londoncg.com/hs-fs/hubfs/junio%202024/Inteligencia%20artificial%20en%20el%20an%C3%A1lisis%20de%20datos/inteligencia-artificial-en-la-analitica-de-datos.png?width=900&height=500&name=inteligencia-artificial-en-la-analitica-de-datos.png">
 
 ### 🔴 Analista de Datos | Business Intelligence | Data Storytelling
 
