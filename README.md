@@ -50,18 +50,6 @@ Combino análisis, visualización y automatización para descubrir patrones, opt
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NataliaSierra77&show_icons=true&theme=transparent&title_color=FF003C&icon_color=00BFFF&text_color=FFFFFF&border_color=FF003C"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaSierra77&layout=compact&theme=transparent&title_color=00BFFF&text_color=FFFFFF&border_color=FF003C"/>
-
-</div>
-
----
-
 ## 🔥 Proyectos Destacados
 
 ### 📈 Automatización de Reportes
